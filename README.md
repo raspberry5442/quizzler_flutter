@@ -4,9 +4,9 @@ A quiz Flutter project.
 
 ## Key Points
 
-- List
 - Dart
   - class constructor
+  - - List
 - Object Oriented Programming
   - Abstraction
   - Encapsulation
