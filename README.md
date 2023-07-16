@@ -6,7 +6,7 @@ A quiz Flutter project.
 
 - Dart
   - class constructor
-  - - List
+  - List
 - Object Oriented Programming
   - Abstraction
   - Encapsulation
